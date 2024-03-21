@@ -26,7 +26,7 @@
   background-size: cover;
   background-attachment: fixed;
   font-family: var(--main-font-family);
-  font-weight: var(--main-font-weight);
+  font-variation-settings: "wght" var(--main-font-weight), 400;
 }
 
 .header {
@@ -131,6 +131,7 @@
   font-size: 18px;
   padding: 4px 10px 6px;
   font-weight: var(--heading-font-weight);
+  font-variation-settings: "wght" var(--heading-font-weight), 700;
 }
 
 .image__area {
