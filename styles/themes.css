@@ -23,7 +23,7 @@
   --main-font-family: "Inter-Variable", sans-serif;
   --accent-font-family: "PressStart2P", fantasy;
   --main-font-weight: 465;
-  --head-font-weight: 785;
+  --heading-font-weight: 785;
   --bg-color: #000000;
   --text-color: #00cc14;
   --bg-image: repeating-linear-gradient(#000000 0 2px, transparent 2px 4px),
@@ -38,7 +38,7 @@
     --main-font-family: "Inter-Variable", sans-serif;
     --accent-font-family: "PressStart2P", fantasy;
     --main-font-weight: 465;
-    --head-font-weight: 785;
+    --heading-font-weight: 785;
     --bg-color: #000000;
     --text-color: #00cc14;
     --bg-image: repeating-linear-gradient(#000000 0 2px, transparent 2px 4px),

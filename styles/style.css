@@ -61,6 +61,15 @@
   text-decoration: none;
 }
 
+.header__caption:focus{
+  outline: none;
+}
+
+.header__caption:focus-visible{
+  outline: none;
+}
+
+
 .theme-menu__list {
   margin-top: 5px;
   justify-content: center;
